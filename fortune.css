@@ -1,0 +1,154 @@
+h1 { font-weight: 100; 
+   font-size: 4em; 
+   color: gold;
+     font-family: Snell Roundhand, cursive	
+
+
+
+
+}
+    
+    #content { 
+     width: 700px; 
+     margin:  570px; 
+     margin-top: 130px; 
+    left: 300px;
+     text-align: center; 
+     font-family: Arial, sans-serif			
+
+  font-weight: 100;
+   }
+    
+ 
+    
+    div.answer {
+      border-radius: 50%;
+      width: 50%;
+      height: 50%;
+      margin: 25% auto;
+    }
+    
+    p#eight {
+      font-size: 15em;
+      margin: -50%;
+      color: magenta;
+      font-family: Bookman, URW Bookman L, serif			
+
+
+    }
+    
+    p#answer {
+      padding: 23px;
+      color: lightblue;
+      letter-spacing: 2px;
+      font-size:30px;
+    }
+    
+    #question {
+      margin: 10px;
+      padding: 10px;
+      width: 400px;
+      
+      font-size:22px;
+      
+    }
+    
+    #info {
+      font-size: 25px;
+       color: white;
+      background-color:purple;
+       font-family: Arial, sans-serif	
+
+
+    }
+    
+
+
+.crystal {
+  height: 1000px;
+  width: 1000px;
+  position: absolute;
+  top: 250px;
+  right: 300px;
+      z-index: -1;
+
+
+}
+
+
+.left{
+  width: 600px;
+height: 600px;
+  position: absolute;
+  top: 450px;
+  left: 300px;
+        z-index: -2;
+
+
+}
+
+.right{
+  width: 600px;
+height: 600px;
+  position: absolute;
+  top: 450px;
+  left: 950px;
+    z-index: -2;
+
+
+}
+
+
+.love{
+  width: 200px;
+height: 200px;
+  position: absolute;
+  top: 540px;
+  left: 140px;
+  
+  
+
+
+}
+
+.blue{
+  width: 155px;
+height: 155px;
+  position: absolute;
+  top: 500px;
+  left: 1370px;
+
+}
+
+.heart{
+  width: 220px;
+height: 220px;
+  position: absolute;
+  top: 530px;
+  left: 1490px;
+
+
+}
+
+.potion{
+  width: 150px;
+height: 150px;
+  position: absolute;
+  top: 510px;
+  left: 315px;
+  
+
+  }
+
+.button{
+  position: absolute;
+  top: 950px;
+  left: 870px;
+  color: white;
+
+
+
+
+  
+
+
